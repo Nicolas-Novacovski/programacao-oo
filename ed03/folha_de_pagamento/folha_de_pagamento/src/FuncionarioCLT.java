@@ -2,7 +2,7 @@
  * A classe FuncionarioCLT representa um funcionário contratado sob regime CLT.
  * Este tipo de funcionário recebe um adicional fixo ao seu salário base.
  *
- * @author Seu Nome
+ * @author Nicolas
  * @version 1.0
  * @since 2025-05-28
  */
